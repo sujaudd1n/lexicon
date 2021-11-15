@@ -99,6 +99,20 @@ When a good and interesting lexicon found in course, books, article and anywhere
 - Window manager
 - gdm, xdm, kdm, lightdm
 - gnome, kde, xfce, lxde
+- Network Time Protocol (NTP)
+- Time Server
+- Network Manager
+- DHCP
+- Static Routing
+- Media Access Control (MAC)
+- Mobile Broadband Connection
+- VPN
+- IPSec, Cisco OpenConnect, Microsoft PPTP, OpenVPN.
+- Package Management System
+- dpkg,rpm
+- apt,dnf,zypper
+- synaptic,dnfdragora, apper, yast
+ 
 
 ***
 
