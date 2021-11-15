@@ -136,3 +136,5 @@ When a good and interesting lexicon found in course, books, article and anywhere
 - Tom Clancy
 - Diplomatic mission
 - Dell
+- Cloud architecture
+- Constitution
