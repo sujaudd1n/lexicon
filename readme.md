@@ -121,10 +121,19 @@ When a good and interesting lexicon found in course, books, article and anywhere
 ### Permanent Record - Edward Snowden
 
 - Edward Snowden
+	- [Edward Snowden - Wikipedia](https://en.wikipedia.org/wiki/Edward_Snowden)
+	- [Edward Snowden - Twitter](https://twitter.com/Snowden)
 - System Engineer
+	- [Systems engineering - Wikipedia](https://en.wikipedia.org/wiki/Systems_engineering)
+	- [How to Become a Systems Engineer - fieldengineer.com](https://www.fieldengineer.com/skills/systems-engineer)
+	- [What does a systems engineer do? - charlotte.edu](https://seem.charlotte.edu/faqs/what-does-systems-engineer-do)
+	- [What Is Systems Engineering? | Systems Engineering, Part 1 - youtube.com](https://www.youtube.com/watch?v=pSfZutP9H-U)
 - Right Livelihood Award
+	- [Right Livelihood Award - wikipedia.org](https://en.wikipedia.org/wiki/Right_Livelihood_Award)
+	- [Rightlivelihood - rightlivelihood.org](https://rightlivelihood.org/)
 - The German Whistleblower Prize
 - The Ridenhour Prize
+	- [The Ridenhour Prize - wikipedia.org](https://en.wikipedia.org/wiki/The_Ridenhour_Prizes)
 - The Carl von Ossietzky Medal
 - International League for Human Rights 
 - Central Intelligence Agency (CIA)
@@ -132,6 +141,9 @@ When a good and interesting lexicon found in course, books, article and anywhere
 - American Intelligence Community (IC)
 - Intelligence Agency
 - Freedom of the Press Foundation
+	- [Freedom of the Press Foundation - wikipedia.org](https://en.wikipedia.org/wiki/Freedom_of_the_Press_Foundation)
+	- [freedom.press](https://freedom.press/)
+	- [Freedom of the Press - twitter.com](https://twitter.com/FreedomofPress)
 - Robert Ludlum
 - Tom Clancy
 - Diplomatic mission
