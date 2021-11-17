@@ -1,11 +1,17 @@
 
 # What is lexicon?
 
-Lexicon is a repository which contains lexicon that are related to computer science, mathematics, science, privacy, security and anything that is interesting.  
+Lexicon is a repository which contains lexicon (word or volabulary) that are related to computer science, mathematics, science, privacy, security and anything that is interesting. Though computer science is the main focus.
 
-## How lexicon is added?
+## How are lexicons added?
 
 When a good and interesting lexicon found in course, books, article and anywhere that meets the requirement it is added here. With lexicon, sources are also provided to learn about that more.
+
+## Characteristics of Lexicons
+
+1. Lexicons should not be very common. Example: programming, computer, internet, algebra, black hole etc.
+	- This changes from person to person. If you find any such words that you think too common, create an issue, we will look into it.
+2. Lexicons should be relevant.
 
 **NOTE**: Some links of lexicon are yet to be provided. And many of lexicons are overlapping.
 
